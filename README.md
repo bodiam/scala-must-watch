@@ -1,10 +1,10 @@
 # Scala must watch
 
-A list of interesting conference talks and great videos on Scala. Inspired by https://github.com/bolshchikov/js-must-watch[**js-must-watch**] 
+A list of interesting conference talks and great videos on Scala. Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch)
 
 Suggestions and contributions are welcome, but please check if it is already in the list. 
 
-If you are looking for a more generic list with quality videos, also check out http://www.videoswelove.org[**Videos We Love.org**] 
+If you are looking for a more generic list with quality videos, also check out [**Videos We Love**](http://www.videoswelove.org)
 
 ## 2015
 
